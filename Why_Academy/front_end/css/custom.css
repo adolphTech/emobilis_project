@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;1,300&display=swap');
+
+body{
+    font-family: "Open Sans",sans-serif;
+
+    background: url("data:image/svg+xml,%3Csvg width='40' height='12' viewBox='0 0 40 12' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 6.172L6.172 0h5.656L0 11.828V6.172zm40 5.656L28.172 0h5.656L40 6.172v5.656zM6.172 12l12-12h3.656l12 12h-5.656L20 3.828 11.828 12H6.172zm12 0L20 10.172 21.828 12h-3.656z' fill='%23000000' fill-opacity='0.01' fill-rule='evenodd'/%3E%3C/svg%3E") #fff;;
+}
+.navbar-dark .navbar-nav .nav-link {
+    font-family: "Open Sans",sans-serif;
+    font-size: 19px;
+    line-height: 50px;
+    word-spacing: 0px;
+    text-decoration: solid rgb(51,51,51);
+    color: rgba(0, 0, 0, 1) !important}
+
+.brightness{
+    filter: brightness(45%);
+}
+
+.carousel .carousel-inner .carousel-caption h1 {
+    font-size: 7rem;
+    font-weight: 900;
+    color: #ffffff;}
+
+
+.navbar-dark .navbar-nav .nav-link:hover{
+    color:#28a745 !important;
+}
+
+
+
+
+
